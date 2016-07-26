@@ -1,0 +1,39 @@
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Bot Application1.dll.config
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Bot Application1.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Bot Application1.pdb
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Autofac.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Chronic.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.Bot.Builder.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.Bot.Connector.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Newtonsoft.Json.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.Net.Http.Formatting.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.Web.Http.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.Web.Http.WebHost.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Autofac.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.Bot.Builder.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.Bot.Connector.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\Newtonsoft.Json.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.Net.Http.Formatting.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.Web.Http.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\System.Web.Http.WebHost.xml
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\obj\Debug\Bot Application1.dll
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\obj\Debug\Bot Application1.pdb
+c:\users\t-karma\documents\visual studio 2015\Projects\ChecklistBot\ChecklistBot\obj\Debug\ChecklistBot.csprojResolveAssemblyReference.cache
